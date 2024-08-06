@@ -105,7 +105,7 @@ section > header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom:4px;
+  margin-bottom:8px;
 }
 
 .expand {
@@ -454,7 +454,7 @@ main.panel-open {
 #toggleDetails.toggle-button {
   background-color: #4c4c4c;
   border:none;
-  color:#6a6a6a;
+  color:#bababa;
 }
 
 .outputs header {
